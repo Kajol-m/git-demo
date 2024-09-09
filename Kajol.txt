@@ -5,3 +5,4 @@ hello
 hi
 
 Branching and merge
+This is the first commit in feature branch
