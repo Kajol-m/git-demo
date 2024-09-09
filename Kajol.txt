@@ -2,7 +2,9 @@ My name is Kajol Murmu, I am not a lunatic.
 My brother name is Manish Murmu and I am pretty sure, he is lunatic.
 I have another brother and he is a definitely a clown.
 hello
-hi
+
 
 Branching and merge
 This is the first commit in feature branch
+
+performing non-fast forward
