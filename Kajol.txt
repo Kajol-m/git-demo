@@ -8,3 +8,4 @@ Branching and merge
 This is the first commit in feature branch
 
 performing non-fast forward
+now we are learning conflict solving
